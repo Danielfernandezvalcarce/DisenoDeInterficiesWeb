@@ -1,0 +1,11 @@
+html{
+    background-color: rgb(252, 225, 61);
+}
+body{
+    display: flex, block;
+    margin-left: 42.5%;
+    margin-top: 10%;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
